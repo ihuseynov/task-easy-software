@@ -6,7 +6,7 @@ Python 3.11+
 poetry
 
 ## Exploration of Tools
-This has not been done much because of the limited time. Many other methods, pipeline structure can be explored to achive better results.
+Exploration of tools is in the `01_notebooks` folder. This part has not been advanced much because of the limited time. Many other methods, pipeline structure can be explored to achive better results.
 
 ## Installation
 
