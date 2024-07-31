@@ -24,9 +24,10 @@ curl -sSL https://install.python-poetry.org | python3 -
 
 3. Install Dependencies
 
-``
+````
 poetry install
-``
+````
+
 4. Configuration - OpenAI API Key
 
 Update utils.py with your OpenAI API key:
